@@ -11,7 +11,7 @@ RazorPlus is a lightweight extension library that provides custom HTML Helpers t
 ### ✅ v1.0 Roadmap
 
 - [x] Project setup
-- [ ] Basic table helper (read-only)
+- [x] Basic table helper (read-only)
 - [ ] Editable table helper
 - [ ] Input type support (text, number, checkbox)
 - [ ] Model binding support
